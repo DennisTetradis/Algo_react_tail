@@ -1,7 +1,10 @@
 # Getting Started with Create React App
 npm install, 
+
 npm install axios, 
+
 npm install flowbite flowbite-react(probably not needed), 
+
 npm audit fix
 
 
