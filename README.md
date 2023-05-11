@@ -23,5 +23,5 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### `npm run build`
 
-if for some reason it doesn't work, follow this:  https://flowbite.com/docs/getting-started/react/   
+If for some reason it doesn't work, follow this:  https://flowbite.com/docs/getting-started/react/   
 and then copy components and App.js into the new project.
